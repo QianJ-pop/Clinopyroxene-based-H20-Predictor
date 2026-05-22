@@ -51,7 +51,7 @@ models/last_water1.tabpfn_fit
 
 The full training code will be released after the associated manuscript is accepted.
 
-Before acceptance, this repository provides the public dataset, pretrained model weights, and online prediction platform to support model use, testing, and reproducibility of the reported predictions.
+Before acceptance, this repository provides the public dataset, pretrained model weights, and online prediction platform to support model use and testing.
 
 ---
 
